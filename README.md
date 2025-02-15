@@ -2,8 +2,8 @@
 This project is to get instance metadata
 ### Pre-requisites ###
 - Python should be installed in ec2 where you are executing the code.
-  `sudo yum install epel-release
-   sudo yum install python3`
+  `sudo yum install epel-release`
+  `sudo yum install python3`
 
 - Now install requests using pip
  `pip3 install requests`
